@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mbazie-Kone.Mbazie-Kone" />
 
 - 👋 Hi, I’m [@Mbazie Kone](https://www.linkedin.com/in/m-bazie-kone-2167a2207)
 - 
