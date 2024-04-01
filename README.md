@@ -17,18 +17,14 @@
 <h2 align="center"> 📫 How to reach me</h2>
 <br/>
 <div align="center">
-  <span>
-    <a href="mailto:mbazie89@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Image"/>
-    </a>
-  </span>
-  <span>
-  <a href="https://www.linkedin.com/in/m-bazie-kone-2167a2207">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Image"/>
+  <a href="mailto:mbazie89@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  </span>
+  <a href="https://www.linkedin.com/in/m-bazie-kone-2167a2207">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
   <a href="https://https://www.instagram.com/alessandrokone">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
 </div>
 
