@@ -1,34 +1,36 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mbazie-Kone.Mbazie-Kone" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+M'bazie+Kone!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+M'bazie+Kone!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Italy &#x1F1EE;&#x1F1F9;</h3>
+<h3 align="center">A software developer from Italy &#x1F1EE;&#x1F1F9;</h3>
 
 <div align="center">
-  
-  I am passionate about computer science, music and soccer. In my free time, I enjoy creating beats with FL Studio. I consistently read and study computer-related materials and content to enhance my skills.
-  
-  🔭 I'm currently working on a **book shop e-commerce project**
-  
+ In my free time, I consistently read and study computer-related materials and content to enhance my skills.
+  <br/><br/>
+ 🔭 I'm currently working on a <b>book shop e-commerce project</b>
+  <br/>
+ 🤝 I'm looking to collaborate on <b>Java application projects</b>
 </div>
 
+<h2 align="center"> 📫 How to reach me</h2>
 <br/>
-
 <div align="center">
-  <a href="mailto:mbazie89@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
+  <span>
+    <a href="mailto:mbazie89@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Image"/>
+    </a>
+  </span>
+  <span>
+  <a href="https://www.linkedin.com/in/m-bazie-kone-2167a2207">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Image"/>
   </a>
-  <a href="https://www.linkedin.com/in/m-bazie-kone-2167a2207" target="_blank">
-    <img src="https://img.shields.io/badge/linkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://https://www.instagram.com/alessandrokone" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </span>
+  <a href="https://https://www.instagram.com/alessandrokone">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </div>
-
-<hr/>
 
 <h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
 <br/>
