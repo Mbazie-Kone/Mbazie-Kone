@@ -15,3 +15,14 @@
   <a href="https://www.linkedin.com/in/m-bazie-kone-2167a2207" target="_blank" />
     <img src="https://img.shields.io/badge/linkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+</div>
+
+<hr/>
+
+<h2 align="center">Languages-Frameworks-Tools</h2>
+<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,github,mongodb,mysql,html,css,git,javascript" />
+  </a>
+</p>
