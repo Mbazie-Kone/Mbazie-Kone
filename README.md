@@ -22,8 +22,5 @@
     <img src="https://skillicons.dev/icons?i=java,github,mongodb,mysql,html,css,git,javascript,eclipse,spring" />
   </a>
 </div>
-<br><br><br>
+<br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbazie-kone&show_icons=true&locale=en&layout=compact" alt="mbazie-kone" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbazie-kone&show_icons=true&locale=en" alt="mbazie-kone" /></p>
-
