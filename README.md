@@ -1,38 +1,24 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mbazie-Kone.Mbazie-Kone" />
+<h1 align="center">Hi 👋, I'm M'bazie Kone</h1>
+<h3 align="center">A junior Java developer from Italy</h3>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+M'bazie+Kone!;" />
-</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mbazie-kone&label=Profile%20views&color=0e75b6&style=flat" alt="mbazie-kone" /> </p>
 
-<h3 align="center">A software developer from Italy &#x1F1EE;&#x1F1F9;</h3>
+- 🔭 I’m currently working on [E-BookShop-Spring-Boot](https://github.com/Mbazie-Kone/E-BookShop-Spring-Boot)
 
-<div align="center">
- In my free time, I consistently read and study computer-related materials and content to enhance my skills.
-  <br/><br/>
- 🔭 I'm currently working on a <b>book shop e-commerce project</b>
-  <br/>
- 🤝 I'm looking to collaborate on <b>Java application projects</b>
-</div>
+- 👯 I’m looking to collaborate on **Java application project**
 
-<h2 align="center"> 📫 How to reach me</h2>
-<br/>
+- 🤝 I’m looking for help with [E-BookShop-Spring-Boot](https://github.com/Mbazie-Kone/E-BookShop-Spring-Boot)
 
-<div align="center">
-  <a href="mailto:mbazie89@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
-  </a>
-  <a href="https://www.linkedin.com/in/m-bazie-kone-2167a2207" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.instagram.com/alessandrokone/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank" />
-  </a>
-</div>
+- 📫 How to reach me **mbazie89@gmail.com**
 
-<h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
-<br/>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,github,mongodb,mysql,html,css,git,javascript,eclipse,spring" />
-  </a>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/m'bazie alessandro kone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m'bazie alessandro kone" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbazie-kone&show_icons=true&locale=en&layout=compact" alt="mbazie-kone" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbazie-kone&show_icons=true&locale=en" alt="mbazie-kone" /></p>
