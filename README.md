@@ -25,4 +25,3 @@
   </a>
 </div>
 <br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbazie-kone&show_icons=true&locale=en&layout=compact" alt="mbazie-kone" /></p>
