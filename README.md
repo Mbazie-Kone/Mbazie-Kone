@@ -7,10 +7,6 @@
 
 - 🔭 I’m currently working on [E-BookShop-Spring-Boot](https://github.com/Mbazie-Kone/E-BookShop-Spring-Boot)
 
-- 👯 I’m looking to collaborate on **Java application project**
-
-- 🤝 I’m looking for help with [E-BookShop-Spring-Boot](https://github.com/Mbazie-Kone/E-BookShop-Spring-Boot)
-
 - 📫 How to reach me **mbazie89@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
