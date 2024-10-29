@@ -17,7 +17,7 @@
 <h3 align="left">🛠️ Languages-Frameworks-Tools 🛠️</h3>
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,github,mongodb,mysql,html,css,git,javascript,eclipse,spring,angular,typescript" />
+    <img src="https://skillicons.dev/icons?i=java,github,mysql,html,css,git,javascript,eclipse,spring,angular,typescript,bootstrap" />
   </a>
 </div>
 <br><br>
