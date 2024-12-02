@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbazie-kone&label=Profile%20views&color=0e75b6&style=flat" alt="mbazie-kone" /> </p>
 
-<p>In my free time, I consistently read and study computer-related materials and content to enhance my skills.</p>
+<p>I am passionate about computer science and football. In my free time, I dedicate myself to the continuous study of topics related to software development.</p>
 
 - 🔭 I’m currently working on [E-BookShop-Spring-Boot](https://github.com/Mbazie-Kone/E-BookShop-Spring-Boot)
 
