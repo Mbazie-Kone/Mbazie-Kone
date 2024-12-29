@@ -5,8 +5,6 @@
 
 <p>I am passionate about computer science and football. In my free time, I dedicate myself to the continuous study of topics related to software development.</p>
 
-- 🔭 I’m currently working on [E-BookShop-Spring-Boot](https://github.com/Mbazie-Kone/E-BookShop-Spring-Boot)
-
 - 📫 How to reach me **mbazie89@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
